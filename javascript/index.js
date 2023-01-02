@@ -83,10 +83,8 @@ function updateCity(event) {
   )}</small></div>
     </div>
 
-    <div>
-    <a href="../world-clock-project/index.html">All cities</a>
-    </div>
-    `;
+    <a href="/">All cities</a>
+       `;
 }
 
 updateTime();
